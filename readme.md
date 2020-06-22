@@ -47,7 +47,7 @@ In the root repository folder you have cloned write those commands
 - Run docker-compose exec app composer install --no-scripts (to install vendor packages)
 - Run docker-compose exec app php artisan key:generate
 - Run docker-compose exec app php artisan migrate (to create tables)
-- Run docker exec -it app bash -c "chmod -R 777 /var/www/storage"
+- Run docker exec -it app bash -c "chmod -R 755 /var/www/storage"
 - Run docker-compose exec app php artisan storage:link
 - Run docker-compose exec app php artisan db:seed (to optionally seed fake data to database)
 ```
