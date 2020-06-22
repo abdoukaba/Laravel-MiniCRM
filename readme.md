@@ -1,6 +1,6 @@
 # Project
 <p>MiniCRM app using VueJS and Laravel PHP Framework to manage clients and their transactions</p>
-- online: http://ec2-35-180-55-60.eu-west-3.compute.amazonaws.com/clients
+- online: http://ec2-35-180-55-60.eu-west-3.compute.amazonaws.com
 
 
 ## Backend
