@@ -1,5 +1,7 @@
 # Project
 <p>MiniCRM app using VueJS and Laravel PHP Framework to manage clients and their transactions</p>
+- online: http://ec2-35-180-55-60.eu-west-3.compute.amazonaws.com/clients
+
 
 ## Backend
 - Basic Laravel Auth – Ability to log in as an administrator
@@ -52,7 +54,6 @@ Then check it on http://localhost:8080
 - Login with seeded admin user with credentials 
 `admin@admin.com  password`
 - In case you have problem with js,css run `docker exec -it app bash -c "npm run prod"`
-- online: http://ec2-35-180-55-60.eu-west-3.compute.amazonaws.com/clients
 
 
 ## Unit Tests
