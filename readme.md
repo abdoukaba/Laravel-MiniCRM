@@ -52,6 +52,7 @@ Then check it on http://localhost:8080
 - Login with seeded admin user with credentials 
 `admin@admin.com  password`
 - In case you have problem with js,css run `docker exec -it app bash -c "npm run prod"`
+online version here:http://ec2-35-180-55-60.eu-west-3.compute.amazonaws.com/clients
 
 
 ## Unit Tests
